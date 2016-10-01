@@ -6,6 +6,7 @@ Things you will need
 	- GEOS
 	- Import states.sql
 	- Add DB credentials into connect.php
+	- (Probably) PHP 5.6
 
 GEOS: http://trac.osgeo.org/geos
 I was unable to successfully install this extension on Windows, but I
